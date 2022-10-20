@@ -4,7 +4,9 @@
 
 ## Projeto
 
+<img src="src/assets/projeto/projetogif.gif" width="600px" />
 
+<img src="src/assets/projeto/projeto.jpeg" />
 
 # Install
 
